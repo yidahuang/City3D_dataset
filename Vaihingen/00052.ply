@@ -1,0 +1,16 @@
+ply
+format binary_little_endian 1.0
+comment saved by liangliang.nan@gmail.com
+element vertex 26
+property float x
+property float y
+property float z
+property float nx
+property float ny
+property float nz
+end_header
+;¿òH¶a¥J®gˆCh+ø<ocÖ:Õá?)¿òHµa¥JšYˆCÌï½Ÿ^¾ğºy?;¿òHµa¥JáZˆC‚oI=îÎ{¾ÏÑw?P¿òHµa¥JR8ˆC.ş„=¦d¾¥u?+¿òH·a¥JÍLˆC¬`ƒ=`âû=l†}?)¿òH¶a¥J=jˆC>}:=È<x¨?P¿òH¶a¥J)\ˆC†Â±=0ˆ¼—ÿ~?P¿òH¶a¥JffˆC†Â±=0ˆ¼—ÿ~?Q¿òH·a¥JfFˆC¿=>5sõ=T¸y?<¿òH·a¥J®GˆC—"=">"su?:¿òH´a¥J
+7ˆC¯=-Ş¦¾ÜZq?)¿òH´a¥Já:ˆCmO*<ñ­z¾A2x?O¿òH´a¥JRˆCìÈ£=¦Ô¯¾²o?a¿òH´a¥J®'ˆCÕéC>%¡È¾Ì`f?b¿òHµa¥J=JˆCÄ=¾÷<¾Ghz?b¿òH¶a¥JffˆC¸OÓ=.™½©é}?=¿òH¸a¥J%ˆC—"=">"su?¿òH·a¥Jq=ˆC($,¾Š»¾sy?¿òH·a¥J
+WˆC›²[¾Œ•¨¾ñfk?)¿òH¸a¥JÍ‰C©›§>ÉúD?,f¿(¿òH³a¥JšˆCºÜ>:#?§#¿:¿òH³a¥J
+ˆCü;a=t>?Ä{*¿T¿òH¹a¥J=
+ˆCÌë	?¡R?å‘?S¿òH¸a¥J®'ˆC´“?™ÿ	?èW,?Q¿òH³a¥J=J‡CCK=—]>½Zh?a¿òH³a¥J¤ˆC}Èm=õ??®Ç)¿
